@@ -14,7 +14,7 @@
     "formik": "^1.5.8",
     "history": "^4.10.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.9.0",
     "react-dom": "npm:@hot-loader/react-dom",
     "react-hot-loader": "^4.12.14",
